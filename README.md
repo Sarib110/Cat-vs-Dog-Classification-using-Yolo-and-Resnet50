@@ -33,7 +33,7 @@ To run this code, follow these steps:
 
 ## Dataset
 
-The dataset used in this project can be found [here](https://www.kaggle.com/datasets/salader/dogs-vs-cats) available on Kaggle. It contains labeled images of cats and dogs for training and testing the classification model.
+The dataset used in this project can be found [here](https://www.kaggle.com/datasets/salader/dogs-vs-cats) and it is available on Kaggle. It contains labeled images of cats and dogs for training and testing the classification model.
 
 ## Models Used
 
